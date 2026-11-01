@@ -21,7 +21,7 @@ init_dvars() {
   set_dvar_default("counter_enabled", "1");
   set_dvar_default("counter_horde_size", "24");
   set_dvar_default("counter_update_ms", "100");
-  set_dvar_default("counter_bottom_offset", "42");
+  set_dvar_default("counter_bottom_offset", "15");
   set_dvar_default("counter_font_scale", "1.5");
   set_dvar_default("counter_fade_time", "0.5");
   set_dvar_default("counter_pulse_enabled", "1");
